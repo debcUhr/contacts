@@ -1,0 +1,35 @@
+{
+    "fieldLabels":  [
+        {
+            "label": "First Name",
+            "id": "firstName",
+            "errorHelper": "Invalid First Name",
+            "isValid": false
+        },
+        {
+            "label": "Last Name",
+            "id": "lastName",
+            "errorHelper": "Invalid Last Name",
+            "isValid": false
+        },
+        {
+            "label": "Email Address",
+            "id": "emailAddress",
+            "errorHelper": "Invalid Email Address",
+            "isValid": false
+        },
+        {
+            "label": "Phone Number",
+            "id": "phoneNumber",
+            "errorHelper": "Invalid Phone Number",
+            "isValid": false
+        },
+        {
+            "label": "Home Address",
+            "id": "homeAddress",
+            "errorHelper": "Invalid Home Address",
+            "isValid": false
+        }
+    ]
+
+}
